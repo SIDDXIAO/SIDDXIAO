@@ -1,29 +1,27 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Siddhant%20Kumar%20Patel&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=BCA%20(DS%20%26%20AI)%20%7C%20ML%20%7C%20Python%20%7C%20AI%20Explorer&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Siddhant%20Kumar%20Patel&amp;fontSize=38&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=BCA%20(DS%20%26%20AI)%20%7C%20ML%20%7C%20Python%20%7C%20AI%20Explorer&amp;descAlignY=58&amp;descAlign=50" />
 
 <!-- TYPING ANIMATION -->
-<a href="https://github.com/SIDDXIAO">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&random=false&width=560&lines=BCA+Student+%40+BBD+University+%F0%9F%8E%93;Python+Developer+%7C+ML+Enthusiast+%F0%9F%90%8D;Data+Science+%26+AI+Explorer+%F0%9F%94%AC;Building+Data-Driven+Solutions+%F0%9F%9A%80;Currently+Learning+Generative+AI+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=20&amp;pause=1000&amp;color=00D2FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=560&amp;lines=BCA+Student+%40+BBD+University+%F0%9F%8E%93;Python+Developer+%7C+ML+Enthusiast+%F0%9F%90%8D;Data+Science+%26+AI+Explorer+%F0%9F%94%AC;Building+Data-Driven+Solutions+%F0%9F%9A%80;Currently+Learning+Generative+AI+%E2%9C%A8" alt="Typing SVG" />
 
 <br/><br/>
 
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/siddhant-kumar-patel-521239324">
-  <img src="https://img.shields.io/badge/LinkedIn-Siddhant_Kumar_Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Siddhant_Kumar_Patel-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 <a href="http://siddhantpatel.tech/">
-  <img src="https://img.shields.io/badge/Portfolio-siddhantpatel.tech-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-siddhantpatel.tech-FF6B6B?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" />
 </a>
 <a href="https://github.com/SIDDXIAO">
-  <img src="https://img.shields.io/badge/GitHub-SIDDXIAO-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-SIDDXIAO-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SIDDXIAO&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=SIDDXIAO&amp;style=for-the-badge&amp;color=7B2FF7&amp;label=PROFILE+VIEWS" />
 
 </div>
 
@@ -39,6 +37,7 @@ Hi! I'm **Siddhant Kumar Patel**, a BCA (Data Science & AI) student at **Babu Ba
 - 📊 Interested in **Machine Learning, Predictive Analytics & NLP**
 - 🎯 Goal: Become a skilled **AI/ML Engineer & Data Scientist**
 - 📍 Based in **Lucknow, India**
+
 
 ---
 
@@ -76,15 +75,15 @@ Hi! I'm **Siddhant Kumar Patel**, a BCA (Data Science & AI) student at **Babu Ba
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SIDDXIAO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=7B2FF7&text_color=C9D1D9" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SIDDXIAO&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D2FF&amp;icon_color=7B2FF7&amp;text_color=C9D1D9" />
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDXIAO&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDXIAO&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D2FF&amp;text_color=C9D1D9" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SIDDXIAO&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FF7&ring=00D2FF&fire=FF6B6B&currStreakLabel=00D2FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=SIDDXIAO&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=7B2FF7&amp;ring=00D2FF&amp;fire=FF6B6B&amp;currStreakLabel=00D2FF&amp;sideLabels=C9D1D9&amp;dates=8B949E" alt="GitHub Streak" />
 
 </div>
 
@@ -122,7 +121,7 @@ Hi! I'm **Siddhant Kumar Patel**, a BCA (Data Science & AI) student at **Babu Ba
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDXIAO&bg_color=0D1117&color=00D2FF&line=7B2FF7&point=FF6B6B&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDXIAO&amp;bg_color=0D1117&amp;color=00D2FF&amp;line=7B2FF7&amp;point=FF6B6B&amp;area=true&amp;hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -134,12 +133,12 @@ Hi! I'm **Siddhant Kumar Patel**, a BCA (Data Science & AI) student at **Babu Ba
 
 ### 💬 Dev Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight" alt="Dev Quote" />
 
 <br/><br/>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer&amp;animation=twinkling" />
 
 **⭐ If you find my work useful, consider giving a star! Let's connect and build together 🚀**
 
