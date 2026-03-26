@@ -65,7 +65,7 @@ Hi! I'm **Siddhant Kumar Patel**, a BCA (Data Science & AI) student at **Babu Ba
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SIDDXIAO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=7B2FF7&text_color=C9D1D9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SIDDXIAO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=7B2FF7&text_color=C9D1D9" />
 &nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDXIAO&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9" />
 
