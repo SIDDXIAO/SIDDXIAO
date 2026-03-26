@@ -65,12 +65,17 @@ Hi! I'm **Siddhant Kumar Patel**, a BCA (Data Science & AI) student at **Babu Ba
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIDDXIAO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=7B2FF7&text_color=C9D1D9&v=1)](https://github.com/SIDDXIAO)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDXIAO&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9&v=1)](https://github.com/SIDDXIAO)
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=SIDDXIAO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=7B2FF7&text_color=C9D1D9" alt="GitHub Stats" />
+&nbsp;
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SIDDXIAO&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=C9D1D9" alt="Top Langs" />
 
-<br/><br/>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SIDDXIAO&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FF7&ring=00D2FF&fire=FF6B6B&currStreakLabel=00D2FF&sideLabels=C9D1D9&dates=8B949E&v=1)](https://github.com/SIDDXIAO)
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SIDDXIAO&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FF7&ring=00D2FF&fire=FF6B6B&currStreakLabel=00D2FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 
 </div>
 
