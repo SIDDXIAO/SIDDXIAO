@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Siddhant%20Kumar%20Patel&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38&desc=BCA%20(DS%20and%20AI)%20|%20ML%20|%20Python%20|%20AI%20Explorer&descAlignY=58&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&random=false&width=560&lines=BCA+Student+@+BBD+University+🎓;Python+Developer+|+ML+Enthusiast+🐍;Data+Science+and+AI+Explorer+🔬;Building+Data-Driven+Solutions+🚀;Currently+Learning+Generative+AI+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&random=false&width=600&lines=BCA+Student+%40+BBD+University;Python+Developer+%7C+ML+Enthusiast;Data+Science+and+AI+Explorer;Building+Data-Driven+Solutions;Currently+Learning+Generative+AI" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -28,7 +28,6 @@ Hi! I'm **Siddhant Kumar Patel**, a BCA (Data Science & AI) student at **Babu Ba
 - 📊 Interested in **Machine Learning, Predictive Analytics & NLP**
 - 🎯 Goal: Become a skilled **AI/ML Engineer & Data Scientist**
 - 📍 Based in **Lucknow, India**
-
 
 ---
 
