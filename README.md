@@ -129,15 +129,7 @@ Hi! I'm **Siddhant Kumar Patel**, a BCA (Data Science & AI) student at **Babu Ba
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SIDDXIAO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies" />
-
-</div>
-
----
 
 <div align="center">
 
