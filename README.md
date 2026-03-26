@@ -88,7 +88,6 @@ me.say_hi()
 [![Anime Recommendation](https://github-readme-stats.vercel.app/api/pin/?username=SIDDXIAO&repo=Anime-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/SIDDXIAO/Anime-Recommendation-System)
 [![Text to Voice](https://github-readme-stats.vercel.app/api/pin/?username=SIDDXIAO&repo=text-to-voice&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/SIDDXIAO/text-to-voice)
 [![Language Translator](https://github-readme-stats.vercel.app/api/pin/?username=SIDDXIAO&repo=Language-translator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/SIDDXIAO/Language-translator)
-[![Predictive Analytics](https://github-readme-stats.vercel.app/api/pin/?username=SIDDXIAO&repo=Predictive_Analytics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=7B2FF7&text_color=FFFFFF)](https://github.com/SIDDXIAO/Predictive_Analytics)
 
 </div>
 
