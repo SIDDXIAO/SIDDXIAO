@@ -39,7 +39,6 @@ Hi! I'm **Siddhant Kumar Patel**, a BCA (Data Science & AI) student at **Babu Ba
 - 📊 Interested in **Machine Learning, Predictive Analytics & NLP**
 - 🎯 Goal: Become a skilled **AI/ML Engineer & Data Scientist**
 - 📍 Based in **Lucknow, India**
-- ⚡ Fun fact: I turn coffee into Python code ☕ → 🐍
 
 ---
 
