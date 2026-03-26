@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/Python-00D2FF?style=flat-square&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Machine_Learning-7B2FF7?style=flat-square&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
     <img src="https://img.shields.io/badge/Data_Science-FF6B6B?style=flat-square&logo=pandas&logoColor=white" alt="Data Science" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/Gen_AI_Learner-FFD600?style=flat-square&logo=openai&logoColor=black" alt="Gen AI" />
   </p>
 
@@ -27,12 +28,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & Coding Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIDDXIAO&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDXIAO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SIDDXIAO&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&langs_count=4&hide_border=true" alt="WakaTime Stats" width="48%" />
 </div>
+
+---
+
+### 🌟 Featured Project Spotlight
+
+#### 🤖 [Project Friday](https://github.com/SIDDXIAO/YOUR_FRIDAY_REPO_LINK)
+> An intelligent personal AI assistant built to streamline tasks and answer queries.
+
+- 🧠 **Core Tech:** Python, Natural Language Processing.
+- ⚙️ **Focus Areas:** Deep Learning, Neural Networks integration, and algorithm optimization.
+- 🚀 **Status:** Active development and continuous debugging.
 
 ---
 
@@ -41,25 +53,28 @@
 > Progress visualized in terminal style:
 
 - **Python** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `████████░░` 85%
-- **Machine Learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `███████░░░` 70%
 - **Data Analysis** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `███████░░░` 75%
+- **Machine Learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `███████░░░` 70%
 - **Generative AI** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `████░░░░░░` 40%
 
 ---
 
-### 📌 Pinned Repositories
+### 🔄 Recent Activity
 
-*(Note: GitHub natively lets you pin 6 repos to the top of your profile, which is highly recommended. But here is the manual list from your design!)*
-
-* 🎬 **[Anime-Recommendation-System](YOUR_REPO_LINK_HERE)**: ML-based anime recommender using collaborative filtering & content analysis.
-* 🗣️ **[Text-to-Voice](YOUR_REPO_LINK_HERE)**: Convert any text to natural speech with Python's TTS engine.
-* 🌍 **[Language Translator](YOUR_REPO_LINK_HERE)**: Multi-language translation tool powered by Google Translate API.
-* 📈 **[Predictive Analytics](YOUR_REPO_LINK_HERE)**: Data-driven predictive models for real-world business problems.
-
+*Setting up GitHub Actions to fetch recent activity...*
 ---
 
+### 🐍 Contribution Graph
+
 <div align="center">
-  
-  *"Code is poetry written for machines, read by humans."* · Keep building, Siddhant 🚀
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDXIAO/SIDDXIAO/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDXIAO/SIDDXIAO/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SIDDXIAO/SIDDXIAO/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+<div align="center">
+  <em>"Code is poetry written for machines, read by humans."</em> · Keep building, Siddhant 🚀
 </div>
